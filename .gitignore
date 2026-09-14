@@ -1,0 +1,21 @@
+# Docs + Preface's own brand marks only.
+node_modules/
+out/
+public/assets/
+*.mp4
+*.mov
+*.wav
+*.zip
+
+# Licensed typefaces must never be committed — this repo is public.
+*.otf
+*.ttf
+*.woff
+*.woff2
+
+# no client photography or renders; the wordmark is the one exception
+*.jpg
+*.jpeg
+*.png
+!brand/logos/*.png
+.DS_Store
